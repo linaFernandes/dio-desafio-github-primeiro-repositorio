@@ -1,0 +1,3 @@
+Usado para controle de versões do código, possibilita o trabalho em equipe e reconhecimento do trabalho.
+
+SHA(Algoritmo de Hash seguro)
